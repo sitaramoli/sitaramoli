@@ -1,7 +1,7 @@
 # Hello there
 
 
-## I'm a Computer Engineer and Currently I'm working on React, Java.
+## I am a computer engineer, and currently, I am working on React and Java.
 
 ## Languages and Tools 
 
